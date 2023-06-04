@@ -12,11 +12,12 @@
 2. В строке `my.profile.dev` введите true (для использования класса DevProfile) введите false (для использования класса ProductionProfile).
 3. В строке `server.port` введите любой port.
 4. Запустите ConditionalApplication
-5. В командной строке пропишите команду `curl -s localhost:`port указанный в пункте 2`/profile
+5. В командной строке пропишите команду `curl -s localhost:(PORT УКАЗАННЫЙ В ПУНКТЕ:2)/profile
    
 ## :red_circle: Требования :red_circle:
 
 - Java 11 или выше
+- Spring Boot
 - Git
 
 ## :red_circle: Автор :red_circle:
