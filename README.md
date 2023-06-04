@@ -10,7 +10,7 @@
 
 ## :red_circle: Как использовать :red_circle:
 
-1. Откройте фаил [settings.txt](https://github.com/rellTim/Conditional-Application/blob/main/src/main/resources/application.properties)
+1. Откройте фаил [application.properties](https://github.com/rellTim/Conditional-Application/blob/main/src/main/resources/application.properties)
 2. В строке `my.profile.dev` введите true (для использования класса DevProfile) введите false (для использования класса ProductionProfile).
 3. В строке `server.port` введите любой port.
 4. Запустите ConditionalApplication
