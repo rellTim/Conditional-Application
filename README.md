@@ -1,6 +1,7 @@
 # :white_check_mark: Задача «Conditional приложение» :white_check_mark:
 
 Этот простейшее использование Spring Boot.
+
 `Ссылка на условия домашнего задания:` https://github.com/netology-code/jd-homeworks/blob/master/spring_boot/task1/README.md
 
 ## :red_circle: Установка и запуск: :red_circle:
